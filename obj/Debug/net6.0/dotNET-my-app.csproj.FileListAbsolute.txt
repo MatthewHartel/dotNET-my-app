@@ -1,0 +1,15 @@
+/Users/matthewhartel/dotNET-my-app/bin/Debug/net6.0/dotNET-my-app
+/Users/matthewhartel/dotNET-my-app/bin/Debug/net6.0/dotNET-my-app.deps.json
+/Users/matthewhartel/dotNET-my-app/bin/Debug/net6.0/dotNET-my-app.runtimeconfig.json
+/Users/matthewhartel/dotNET-my-app/bin/Debug/net6.0/dotNET-my-app.dll
+/Users/matthewhartel/dotNET-my-app/bin/Debug/net6.0/dotNET-my-app.pdb
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.csproj.AssemblyReference.cache
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.AssemblyInfoInputs.cache
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.AssemblyInfo.cs
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.csproj.CoreCompileInputs.cache
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.dll
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/refint/dotNET-my-app.dll
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.pdb
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/dotNET-my-app.genruntimeconfig.cache
+/Users/matthewhartel/dotNET-my-app/obj/Debug/net6.0/ref/dotNET-my-app.dll
